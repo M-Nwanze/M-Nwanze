@@ -41,7 +41,7 @@ I’m a DevOps Engineer focused on automation, observability, and system perform
 
 ## 📈 My Recent Projects
 
-### 📍 [Project 1] [My Secure Aks App](https://github.com/M-Nwanze/spring-boot-aks-oidc-demo)
+### 📍 [Project 1](#) [My Secure Aks App](https://github.com/M-Nwanze/spring-boot-aks-oidc-demo)
 Secure Spring Boot app on AKS using GitHub Actions, OIDC, and Terraform. Zero secrets, zero downtime, full IaC.  
 🔐 **Security**: Azure AD Workload Identity  
 🛠️ **Tech**: Java, Spring Boot, Docker, ACR, AKS, Terraform, GitHub Actions
@@ -61,4 +61,4 @@ A Flask-based calculator with REST API, Docker, CI/CD (GitLab), and PyPI packagi
 ## 📧 Get In Touch
 
 - 📧 [Email](mailto:smarty.livid.2h@icloud.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+  
