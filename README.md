@@ -35,20 +35,26 @@ I’m a DevOps Engineer focused on automation, observability, and system perform
 
 ## 📊 GitHub Stats
 
-![Mike-sketch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mike-sketch&show_icons=true&theme=radical)
+![M-Nwanze's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Nwanze&show_icons=true&theme=radical)
 
 ---
 
 ## 📈 My Recent Projects
 
-### 📍 [Project 1] [AI-ML-PLATFORM](https://github.com/Mike-sketch/AI-ML-PLATFORM)
-AIand ML CI/CD deployment via azure DevOps  and GitHub Actions.  the tech stack (e.g., Python, Docker, GitHub Actions)
+### 📍 [Project 1] [My Secure Aks App](https://github.com/M-Nwanze/spring-boot-aks-oidc-demo)
+Secure Spring Boot app on AKS using GitHub Actions, OIDC, and Terraform. Zero secrets, zero downtime, full IaC.  
+🔐 **Security**: Azure AD Workload Identity  
+🛠️ **Tech**: Java, Spring Boot, Docker, ACR, AKS, Terraform, GitHub Actions
 
-### 📍 [Project 2](#)
-Include a short line on your contributions and how it showcases your skills.
+### 📍 [Project 2](#) [Azure-vote-app](https://github.com/M-Nwanze/azure-vote-app)
+A multi-container voting app on AKS using Flask and Redis. Demonstrates CI/CD with GitHub Actions, Docker, and IaC with Terraform. Supports zero-downtime deployments and health checks.  
+🔧 **Tech**: Python, Flask, Redis, Docker, AKS, GitHub Actions, Terraform, Azure
 
-### 📍 [Project 3](#)
-Mention CI/CD, infra-as-code, or monitoring if those were involved.
+
+### 📍 [Project 3](#) [calcyoulater](https://github.com/M-Nwanze/calcyoulater-pkg)
+A Flask-based calculator with REST API, Docker, CI/CD (GitLab), and PyPI packaging. Demonstrates full DevOps lifecycle from build to publish.  
+🔧 **Tech**: Python, Flask, Docker, GitLab CI, PyPI
+
 
 ---
 
