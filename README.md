@@ -50,7 +50,6 @@ Secure Spring Boot app on AKS using GitHub Actions, OIDC, and Terraform. Zero se
 A multi-container voting app on AKS using Flask and Redis. Demonstrates CI/CD with GitHub Actions, Docker, and IaC with Terraform. Supports zero-downtime deployments and health checks.  
 🔧 **Tech**: Python, Flask, Redis, Docker, AKS, GitHub Actions, Terraform, Azure
 
-
 ### 📍 [Project 3](#) [calcyoulater](https://github.com/M-Nwanze/calcyoulater-pkg)
 A Flask-based calculator with REST API, Docker, CI/CD (GitLab), and PyPI packaging. Demonstrates full DevOps lifecycle from build to publish.  
 🔧 **Tech**: Python, Flask, Docker, GitLab CI, PyPI
